@@ -6,3 +6,5 @@ PI: Dr. Heather Knight
 Mentor: Alexandra Bacula
 
 I was apart of the CHARISMA Lab for the summer 2022 as a Research Assistant for Alexandra's current work.
+
+All work was done using PyCharm Community Edition
