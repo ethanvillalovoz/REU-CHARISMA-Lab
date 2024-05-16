@@ -14,5 +14,11 @@ Contributors: Ethan Villalovoz, Alexandra Bacula
 
 The goal of this project is to make robots more approachable to humans. One aspect is how people perceive robots through different geometric formations. I focused on developing geometric features for multi-robot expressive motion to enhance the character and intelligence of the robots. I conducted literature reviews to establish a theoretical foundation, exploring the correlation between geometric shapes and human emotional responses in human-robot interaction. I implemented a robust Python script for calculating geometric formation ending positions, ensuring seamless communication with the Pioneer 3DX robot. I designed a user-friendly Graphical User Interface (GUI) for the script, enhancing accessibility and facilitating efficient command-line interaction. I actively participated in the design of two studies, providing valuable insights into how geometric formations influence human perception of robots. I wrote up my work which was used in the publication of this work.
 
-All work was done using PyCharm Community Edition
+# Repository and Installation setup
 
+- All software used to run our code is in PyCharm Community Edition.
+  - Any IDE or software will work.
+- For all the work in this repo, Python 3.9 was used.
+- You can directly go to the folder you would like to download the code.
+  - Each folder will contain the Venv (requirements/interpreter) folder.
+- Open the downloaded folder in your IDE to begin running the code!
