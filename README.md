@@ -16,12 +16,11 @@ The goal of this project is to make robots more approachable to humans. One aspe
 
 # Repository and Installation setup
 
-- All software used to run our code is in PyCharm Community Edition.
-  - Any IDE or software will work.
-- For all the work in this repo, Python 3.9 was used.
-- You can directly go to the folder you would like to download the code.
-  - Each folder will contain the Venv (requirements/interpreter) folder.
-- Open the downloaded folder in your IDE to begin running the code!
+- This repository hosts code developed using PyCharm Community Edition. However, you can use any IDE or software of your choice.
+- Ensure you have Python 3.9 installed on your system as it was used for all the code in this repository.
+- To download the code, navigate to the folder of your interest within the repository.
+  - Each folder includes a Venv folder containing the necessary requirements and interpreter.
+- Open the downloaded folder in your preferred IDE to start exploring and running the code.
 
 # Documentation 
 
