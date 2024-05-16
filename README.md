@@ -34,5 +34,7 @@ I also wrote a draft of my work to be used for writing a paper and publishing it
 - [Presentation](documents/presentation.pdf)
 
 [2023/10/1] 
+
 This work has been accepted and published to 2023 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS). If you would like to read further information about our final work, please click here: 
+
 https://scholar.google.com/citations?view_op=view_citation&hl=en&user=CavKFp4AAAAJ&citation_for_view=CavKFp4AAAAJ:u5HHmVD_uO8C
