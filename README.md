@@ -22,3 +22,15 @@ The goal of this project is to make robots more approachable to humans. One aspe
 - You can directly go to the folder you would like to download the code.
   - Each folder will contain the Venv (requirements/interpreter) folder.
 - Open the downloaded folder in your IDE to begin running the code!
+
+# Documentation 
+
+For more information on our project, you can view the final presentation that I gave at the end of my REU experience:
+
+- [Presentation](documents/presentation.pdf)
+
+I also wrote a draft of my work to be used for writing a paper and publishing it. Here is my paper draft:
+
+- [Presentation](documents/presentation.pdf)
+
+[2023/10/1] This work has been accepted and published to 2023 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS). If you would like to read further information about our final work, please click here: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=CavKFp4AAAAJ&citation_for_view=CavKFp4AAAAJ:u5HHmVD_uO8C
