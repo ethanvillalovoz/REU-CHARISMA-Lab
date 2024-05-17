@@ -24,7 +24,7 @@ The goal of this project is to make robots more approachable to humans. One aspe
 
 For more information on our project, you can view the final presentation that I gave at the end of my REU experience:
 
-- [Presentation](documents/presentation.pdf)
+- [Presentation](documentation/Final_Presentation_@_CHARISMA_LAB.pdf)
 
 I also wrote a draft of my work to be used for writing a paper and publishing it. Here is my paper draft:
 
