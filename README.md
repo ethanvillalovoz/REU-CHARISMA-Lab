@@ -30,7 +30,7 @@ For more information on our project, you can view the final presentation that I 
 
 I also wrote a draft of my work to be used for writing a paper and publishing it. Here is my paper draft:
 
-- [Presentation](documents/presentation.pdf)
+- [Paper Draft](documents/presentation.pdf)
 
 [2023/10/1] 
 
