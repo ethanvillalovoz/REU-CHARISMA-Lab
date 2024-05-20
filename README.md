@@ -1,37 +1,38 @@
 # REU-CHARISMA-Lab
 
-Oregon State University | Research Experience for Undergraduates: Robots in the Real World - CHARISMA Robotics Laboratory
+## Oregon State University | Research Experience for Undergraduates: Robots in the Real World - CHARISMA Robotics Laboratory
 
-Project Name: Scary Triangles and Friendly Arcs: Developing Geometric Features for Multi-Robot Expressive Motion
+### Project Name: Scary Triangles and Friendly Arcs: Developing Geometric Features for Multi-Robot Expressive Motion
 
-Advisor: Dr. Heather Knight
+#### Advisor: Dr. Heather Knight
 
-Mentor: Alexandra Bacula
+#### Mentor: Alexandra Bacula
 
-Contributors: Ethan Villalovoz, Alexandra Bacula
+#### Contributors: Ethan Villalovoz, Alexandra Bacula
 
-# Project Description 
+## Introduction
 
-The goal of this project is to make robots more approachable to humans. One aspect is how people perceive robots through different geometric formations. I focused on developing geometric features for multi-robot expressive motion to enhance the character and intelligence of the robots. I conducted literature reviews to establish a theoretical foundation, exploring the correlation between geometric shapes and human emotional responses in human-robot interaction. I implemented a robust Python script for calculating geometric formation ending positions, ensuring seamless communication with the Pioneer 3DX robot. I designed a user-friendly Graphical User Interface (GUI) for the script, enhancing accessibility and facilitating efficient command-line interaction. I actively participated in the design of two studies, providing valuable insights into how geometric formations influence human perception of robots. I wrote up my work which was used in the publication of this work.
+Welcome to the REU-CHARISMA-Lab repository! This repository contains the work completed during my Research Experience for Undergraduates (REU) program at Oregon State University's CHARISMA Robotics Laboratory. 
 
-# Repository & Installation Setup
+## Project Description 
+
+The goal of this project was to explore how geometric formations influence human perception of robots and develop geometric features for multi-robot expressive motion to enhance human-robot interaction. I conducted literature reviews, implemented Python scripts for calculating geometric formations, and participated in the design and execution of two studies. Additionally, I contributed to writing up our findings, which were published at the 2023 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS).
+
+## Repository & Installation Setup
+
+To access the code in this repository, follow these steps:
 
 - This repository hosts code developed using PyCharm Community Edition. However, you can use any IDE or software of your choice.
-- Ensure you have Python 3.9 installed on your system as it was used for all the code in this repository.
+- Ensure you have Python 3.9 installed on your system.
 - To download the code, navigate to the folder of your interest within the repository.
 
-# Documentation 
+## Documentation 
 
-For more information on our project, you can view the final presentation that I gave at the end of my REU experience:
+For more information on our project, you can view:
 
-- [Presentation](documentation/Final_Presentation_@_CHARISMA_LAB.pdf)
+- [Final Presentation](documentation/Final_Presentation_@_CHARISMA_LAB.pdf): This presentation provides an overview of our project and key findings.
+- [Paper Draft](documentation/Research_Paper_Draft_Summer_2022.pdf): This document contains a draft of our research paper, detailing our methodology, results, and conclusions.
 
-I also wrote a draft of my work to be used for writing a paper and publishing it. Here is my paper draft:
+## Publication Information
 
-- [Paper Draft](documentation/Research_Paper_Draft_Summer_2022.pdf)
-
-[2023/10/1] 
-
-This work has been accepted and published to 2023 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS). If you would like to read further information about our final work, please click here: 
-
-https://scholar.google.com/citations?view_op=view_citation&hl=en&user=CavKFp4AAAAJ&citation_for_view=CavKFp4AAAAJ:u5HHmVD_uO8C
+Our work has been accepted and published at the 2023 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS). You can read the full paper [here](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=CavKFp4AAAAJ&citation_for_view=CavKFp4AAAAJ:u5HHmVD_uO8C).
